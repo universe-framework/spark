@@ -188,7 +188,7 @@
     <repositories>
         <repository>
             <id>petuniversal-snapshots</id>
-            <url>http://dev.petuniversal.com/repo/libs-snapshot-local</url>
+            <url>http://maven.petuniversal.com/repository/libs-snapshot-local</url>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>never</updatePolicy>
@@ -201,7 +201,7 @@
         </repository>
         <repository>
             <id>petuniversal-release</id>
-            <url>http://dev.petuniversal.com/repo/libs-release-local</url>
+            <url>http://maven.petuniversal.com/repository/libs-release-local</url>
             <snapshots>
                 <enabled>true</enabled>
                 <updatePolicy>never</updatePolicy>
@@ -213,5 +213,4 @@
             </releases>
         </repository>
     </repositories>
-
 </project>
