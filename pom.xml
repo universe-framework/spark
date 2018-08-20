@@ -95,6 +95,11 @@
                 <artifactId>jackson-databind</artifactId>
                 <version>${com.fasterxml.jackson.core.version}</version>
             </dependency>
+            <dependency>
+                <groupId>com.fasterxml.jackson.jaxrs</groupId>
+                <artifactId>jackson-jaxrs-json-provider</artifactId>
+                <version>${com.fasterxml.jackson.core.version}</version>
+            </dependency>
             <!-- Persistence -->
             <dependency>
                 <groupId>org.eclipse.persistence</groupId>
