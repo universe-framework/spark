@@ -20,9 +20,6 @@
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-
-		<universe.version>2.1.0</universe.version>
-
         <!-- Java2EE -->
         <javaee-endorsed-api.version>7.0</javaee-endorsed-api.version>
         <eclipselink.version>2.5.2</eclipselink.version>
