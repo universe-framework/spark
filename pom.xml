@@ -12,7 +12,7 @@
     <description>Yet another java framework! A bootstrap solution built over j2ee.</description>
 
     <properties>
-        <universe.version>2.2.0-SNAPSHOT</universe.version>
+        <universe.version>${project.version}</universe.version>
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
 
