@@ -43,13 +43,13 @@
             <dependency>
                 <groupId>${project.groupId}</groupId>
                 <artifactId>galaxy</artifactId>
-                <version>${universe.version}</version>
+                <version>${project.version}</version>
                 <type>ejb</type>
             </dependency>
             <dependency>
                 <groupId>${project.groupId}</groupId>
                 <artifactId>checkvat</artifactId>
-                <version>${universe.version}</version>
+                <version>${project.version}</version>
             </dependency>
 
             <!--
