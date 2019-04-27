@@ -40,6 +40,18 @@
 
     <dependencyManagement>
         <dependencies>
+            <dependency>
+                <groupId>${project.groupId}</groupId>
+                <artifactId>galaxy</artifactId>
+                <version>${project.version}</version>
+                <type>ejb</type>
+            </dependency>
+            <dependency>
+                <groupId>${project.groupId}</groupId>
+                <artifactId>checkvat</artifactId>
+                <version>${project.version}</version>
+            </dependency>
+
             <!--
                 Java2EE
             -->
